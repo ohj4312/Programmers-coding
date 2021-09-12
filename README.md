@@ -2,6 +2,7 @@
 programmers의 코딩테스트 연습문제 풀이<br>
 
 ## leve1
+
 <kbd>leve1</kbd> [평균 구하기]](./Programmers/src/level1/Avg.java) (연습문제)
 <kbd>leve1</kbd> [시저 암호](./Programmers/src/level1/Caeser.java) (연습문제)
 <kbd>leve1</kbd> [가운데 글자 가져오기](./Programmers/src/level1/CenterString.java) (연습문제)
@@ -36,6 +37,3 @@ programmers의 코딩테스트 연습문제 풀이<br>
 <kbd>leve1</kbd> [복서 정렬하기](./Programmers/src/level1/Weekly_6.java) (위클리 챌린지)
 <kbd>leve1</kbd> [행렬의 덧셈](./Programmers/src/level1/XYPlus.java) (연습문제)
 <kbd>leve1</kbd> [x만큼 간격이 있는 n개의 숫자](./Programmers/src/level1/XsizeNumber.java) (연습문제)
-
-
-
