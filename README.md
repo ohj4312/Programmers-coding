@@ -15,6 +15,7 @@ programmers의 코딩테스트 연습문제 풀이<br>
 <kbd>leve1</kbd> [내적](./Programmers/src/level1/FromOneToN.java) (월간 코드 챌린지 시즌1)
 <kbd>leve1</kbd> [하샤드 수](./Programmers/src/level1/Hashad.java) (연습문제)
 <kbd>leve1</kbd> [같은 숫자는 싫어](./Programmers/src/level1/HateSameNumber.java) (연습문제)
+<kbd>leve1</kbd> [핸드폰 번호 가리기](./Programmers/src/level1/HidePhonNumber.java) (연습문제)
 <kbd>leve1</kbd> [두 정수 사이의 합](./Programmers/src/level1/IntAndIntSum.java) (연습문제)
 <kbd>leve1</kbd> [정수 내림차순으로 배치하기](./Programmers/src/level1/IntegerReverse.java) (연습문제)
 <kbd>leve1</kbd> [정수 제곱근 판별](./Programmers/src/level1/IntegerSquareRoot.java) (연습문제)
@@ -35,6 +36,6 @@ programmers의 코딩테스트 연습문제 풀이<br>
 <kbd>leve1</kbd> [복서 정렬하기](./Programmers/src/level1/Weekly_6.java) (위클리 챌린지)
 <kbd>leve1</kbd> [행렬의 덧셈](./Programmers/src/level1/XYPlus.java) (연습문제)
 <kbd>leve1</kbd> [x만큼 간격이 있는 n개의 숫자](./Programmers/src/level1/XsizeNumber.java) (연습문제)
-<kbd>leve1</kbd> [핸드폰 번호 가리기](./Programmers/src/level1/XsizeNumber.java) (연습문제)
+
 
 
