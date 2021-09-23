@@ -3,7 +3,7 @@ programmers의 코딩테스트 연습문제 풀이<br>
 
 ## leve1
 
-- <kbd>leve1</kbd> [평균 구하기]](./Programmers/src/level1/Avg.java) (연습문제)
+- <kbd>leve1</kbd> [평균 구하기](./Programmers/src/level1/Avg.java) (연습문제)
 - <kbd>leve1</kbd> [시저 암호](./Programmers/src/level1/Caeser.java) (연습문제)
 - <kbd>leve1</kbd> [가운데 글자 가져오기](./Programmers/src/level1/CenterString.java) (연습문제)
 - <kbd>leve1</kbd> [가운데 글자 가져오기](./Programmers/src/level1/ChooseTwoAndPlus.java) (월간 코드 챌린지 시즌1)
