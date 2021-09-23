@@ -11,7 +11,7 @@ programmers의 코딩테스트 연습문제 풀이<br>
 - <kbd>leve1</kbd> [문자열 다루기 기본](./Programmers/src/level1/ControlString.java) (연습문제)
 - <kbd>leve1</kbd> [문자열 내 p와 y의 개수](./Programmers/src/level1/ControlString.java) (연습문제)
 - <kbd>leve1</kbd> [나누어 떨어지는 숫자 배열](./Programmers/src/level1/DivideNumberArray.java) (연습문제)
-- - <kbd>leve1</kbd> [나누어 떨어지는 숫자 배열](./Programmers/src/level1/DivisorCntSum.java) (월간 코드 챌린지 시즌2)
+- <kbd>leve1</kbd> [약수의 개수와 덧셈](./Programmers/src/level1/DivisorCntSum.java) (월간 코드 챌린지 시즌2)
 - <kbd>leve1</kbd> [직사각형 별찍기](./Programmers/src/level1/DrawStar.java) (연습문제)
 - <kbd>leve1</kbd> [짝수와 홀수](./Programmers/src/level1/EvenOdd.java) (연습문제)
 - <kbd>leve1</kbd> [서울에서 김서방 찾기](./Programmers/src/level1/FindKim.java) (연습문제)
